@@ -5,7 +5,10 @@
 - 主题：Fuwari（https://github.com/saicaca/fuwari）
 - 安装基线 commit：`6d39b0dec41282e7852e23e032998a5789abee28`
 - 部署目标：GitHub Pages 项目页 `https://aebc08.github.io/Blog/`
+- 线上状态：已部署（2026-11-01 首次发布成功）
+- 远程仓库：https://github.com/AEBC08/Blog（公开，默认分支 `main`）
 - 仓库主人：AEBC08（https://github.com/AEBC08）
+- 本地提交：`ee0e042 feat: migrate blog to Fuwari`
 
 ## 技术栈
 
@@ -27,7 +30,7 @@
 - 内容：示例文章已全部删除，`src/content/posts/` 为空（保留 `.gitkeep`）
 - 关于页：已替换为个人简介
 - 头像：本地生成的字母头像 `src/assets/images/avatar.png`
-- 部署：`.github/workflows/deploy.yml`（GitHub Actions）
+- 部署：`.github/workflows/deploy.yml`（GitHub Actions，Pages Source 已设为 GitHub Actions）
 
 ## 目录说明
 

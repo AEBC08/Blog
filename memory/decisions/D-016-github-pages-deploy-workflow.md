@@ -24,3 +24,5 @@
 ## 影响
 
 部署前需要在仓库 **Settings → Pages → Build and deployment → Source** 选择 **GitHub Actions**。如果默认分支不是 `main`，需修改 `deploy.yml` 的 `branches`。
+
+- **2026-11-01 补充**：仓库 `AEBC08/Blog` 的 Pages 已通过 API 设为 `build_type: workflow`，默认分支为 `main`，首次推送即部署成功。

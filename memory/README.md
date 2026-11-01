@@ -13,6 +13,7 @@ memory/
 ├─ logs/                  # 操作与验证日志（按日期）
 │  ├─ 2026-11-01-install.md
 │  ├─ 2026-11-01-configuration.md
+│  ├─ 2026-11-01-deploy.md
 │  └─ 2026-11-01-verification.md
 ├─ guides/                # 可复用的操作指南
 │  └─ frontmatter-migration.md
@@ -30,7 +31,8 @@ memory/
 
 ## 快速跳转
 
-- 当前部署地址：`https://aebc08.github.io/Blog/`
+- 当前部署地址：`https://aebc08.github.io/Blog/`（已上线）
+- 远程仓库：`https://github.com/AEBC08/Blog`
 - 当前主题：Fuwari（commit `6d39b0dec41282e7852e23e032998a5789abee28`）
 - 旧站备份：`.backup/astropaper-2026-11-01/`
 - 部署前待办：[`tasks/todo.md`](tasks/todo.md)

@@ -26,3 +26,4 @@ base: "/Blog",
 - 所有站内链接、favicon、RSS、sitemap 都带 `/Blog/` 前缀。
 - 如果实际仓库名不是 `Blog`，必须同步修改 `base`；否则部署后资源会 404。
 - 已验证构建产物：`https://aebc08.github.io/Blog/`、`/Blog/about/`、`/Blog/archive/` 均正确。
+- **2026-11-01 补充**：用户确认仓库名即为 `Blog`，且已创建远程仓库并部署成功，配置无需调整。
